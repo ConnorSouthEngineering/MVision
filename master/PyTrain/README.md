@@ -20,6 +20,7 @@ Can be generated from your NVIDIA developer account and placed into the given fi
 ## Datasets
 Datasets of mp4 file type need to be placed within the sources folder.
 The file structure should be of:
+```tree
 /app
     /sources
             /dataset1Name
@@ -34,6 +35,7 @@ The file structure should be of:
                 /class1_subclass3
                 /class2_subclass1
                 /class3_subclass1
+```
 Here dataset1Name should be = to the source name in the PostgresDB
 Additionally PyTrain extracts only the class name prior to the _, this allows functionality of segregation between subsets:
 i.e cooking_cuttingbread holds videos only cutting bread. However when cooking is selected this will be combined with cooking_peelingpotatoes
