@@ -21,7 +21,7 @@ This shows a visualisation of the prediction occuring on a given set of cameras.
 
 ### Live Report Data
 This shows the report a generated report displaying data from an active deployment.
-![LiveReport](imgs/Live%20Report.png)
+![LiveReport](imgs/Live%20Deployment%20Report.png)
 
 ---
 
