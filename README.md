@@ -4,6 +4,27 @@ This repository contains the content for a proof of concept implementation of co
 
 ---
 
+## Image Demos
+
+### Model Deployment Configuration 
+This shows the deployment creation interface, with the overall deployment summarised on the right of the screen.
+
+![DeploymentCreationInterface](imgs/Deployment%20Configuration.png)
+
+### Report Configuration
+This shows the report creation interface, with the the future report preview on the right of the screen.
+![ReportCreationInterface](imgs/Report%20Configuration.png)
+
+### Visulisation of Deployment Data Recieved
+This shows a visualisation of the prediction occuring on a given set of cameras. Each camera holds 3 deployments utilising 3 different CV models.
+![DeploymentVisualisation](imgs/Deployment%20Visualisation.png)
+
+### Live Report Data
+This shows the report a generated report displaying data from an active deployment.
+![LiveReport](imgs/Live%20Report.png)
+
+---
+
 ## Hardware Used
 
 ### Host Machine
